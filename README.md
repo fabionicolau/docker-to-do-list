@@ -12,5 +12,5 @@ obs: O todo-app foi disponibilizado pela Trybe.
 </ul>
 
 <h1>Nota</h1>
-<img src="./docker-todolist.png" alt="nota do projeto" width='800' height='450'>
+<img src="./docker-todolist.png" alt="nota do projeto" width='800' height='600'>
 
